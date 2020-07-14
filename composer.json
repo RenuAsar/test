@@ -1,0 +1,15 @@
+{
+    "name": "package/first",
+    "description": "test",
+    "authors": [
+        {
+            "name": "Renu",
+            "email": "rasar@xento.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RenuAsar\\composer\\": "src"
+        }      
+    }
+}
